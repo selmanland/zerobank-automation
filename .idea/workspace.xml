@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2882fe0c-25b4-4d59-b9c7-2a52a2b34e92" name="Default Changelist" comment="hi" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/IdeaProjects/zerobank-automation/src/test/java/com/zerobank/runners/CukesRunner.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/IdeaProjects/zerobank-automation/src/test/resources/features/AccountSummary.feature" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/IdeaProjects/zerobank-automation/src/test/java/com/zerobank/step_definitions/AccountActivityStepDef.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/IdeaProjects/zerobank-automation/src/test/resources/features/AccountActivity.feature" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/IdeaProjects/zerobank-automation/src/test/java/com/zerobank/step_definitions/Hooks.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/IdeaProjects/zerobank-automation/src/test/java/com/zerobank/step_definitions/FindTransactionsStepDef.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/IdeaProjects/zerobank-automation/src/test/java/com/zerobank/pages/FindTransactionsPage.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/IdeaProjects/zerobank-automation/src/test/resources/features/FindTransactions.feature" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/IdeaProjects/zerobank-automation/src/test/resources/features/PayBills.feature" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1wO8dfYStL1cSI95XRi13tnW6yb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zerobank-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zerobank.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zerobank.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.zerobank.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2882fe0c-25b4-4d59-b9c7-2a52a2b34e92" name="Default Changelist" comment="" />
+      <created>1628318362653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628318362653</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$USER_HOME$/IdeaProjects/zerobank-automation/src/test/java/com/zerobank/pages/PayBillsPage.java</url>
+          <line>25</line>
+          <properties field="amount" class="com.zerobank.pages.PayBillsPage" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zerobank_automation$CukesRunner.ic" NAME="CukesRunner Coverage Results" MODIFIED="1628508252721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zerobank.runners.*</FILTER>
+    </SUITE>
+  </component>
+</project>
